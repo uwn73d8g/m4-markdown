@@ -6,5 +6,5 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 
 See `complete` branch for an example.
 
-"If you would convince a man that he does wrong, do right. But do not care to convince him. Men will believe what they see. Let them see."
-http://www.goodreads.com/quotes/tag/example
+>"If you would convince a man that he does wrong, do right. But do not care to convince him. Men will believe what they >see. Let them see."
+>http://www.goodreads.com/quotes/tag/example
